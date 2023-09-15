@@ -1,11 +1,11 @@
 import '../assets/css/errorStyle.css'
 import Nav from '../components/Nav'
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function Error() {
-    return(
+    return (
         <>
-            <Nav/>
+            <Nav />
             <div className="container-fluid error-404">
                 <h1 className='display-1'>Erro 404</h1>
                 <h2 className='display-5'>Página não encontrada</h2>
