@@ -6,7 +6,7 @@ function Login() {
         <>
             <main className="container d-flex flex-column justify-content-center align-items-center p-5">
                 <div className="login-box row my-5 border border-2 border-dark p-5 rounded">
-                    <div className="col-lg-6 d-flex flex-column justify-content-center align-items center">
+                    <div className="col-lg-6 mb-3 mb-lg-0 d-flex flex-column justify-content-center align-items center">
                         <h2 className='display-3 text-center mb-5'>Entrar na sua conta</h2>
                         <form className='d-flex flex-column justify-content-between'>
                             <label htmlFor="email" className='form-label'>E-mail:</label>
