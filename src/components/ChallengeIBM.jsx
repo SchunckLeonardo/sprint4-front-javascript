@@ -13,7 +13,7 @@ function ChallengeIBM() {
                         </div>
                         <div className="col-lg-6 d-flex justify-content-center align-items-center ps-5">
                             <p className='lead text-light'>
-                                O termo abordado pela IBM para o Challenge, trata-se do desenvolvimento de uma solução para “Smart Cities”, com foco em sustentabilidade, uma harmonia entre meio ambiente e sociedade.
+                                O projeto está focado na resolução do 15º Objetivo de Desenvolvimento Sustentável (ODS) estabelecido pela ONU, que prioriza a conservação da vida terrestre e da biodiversidade.
                             </p>
                         </div>
                     </div>

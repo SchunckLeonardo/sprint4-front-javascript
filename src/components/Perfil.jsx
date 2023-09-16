@@ -11,10 +11,10 @@ function Perfil() {
                         </div>
                         <div className="col-lg-6 d-flex flex-column justify-content-center align-items-center ps-5 border-start">
                             <ul className="list-group list-group-flush">
-                                <li className="list-group-item">Compromisso com a responsabilidade social corporativa</li>
-                                <li className="list-group-item">Interesse em colaborar com outras empresas para alcançar objetivos em comum</li>
-                                <li className="list-group-item">Dispostas a investir em iniciativas ambientais que agreguem valor ao negócio</li>
-                                <li className="list-group-item">Busca por imagem positiva e uma reputação sustentável perante a sociedade, consumidores e fornecedores</li>
+                                <li className="list-group-item"><span className='fw-semibold'>Autoridades Ambientais</span>: Agências governamentais encarregadas de proteger o meio ambiente</li>
+                                <li className="list-group-item"><span className='fw-semibold'>Organizações Ambientais</span>: ONGs e grupos sem fins lucrativos dedicados à conservação</li>
+                                <li className="list-group-item"><span className='fw-semibold'>Cidades Inteligentes</span>: Governos locais buscando melhorar a qualidade do ar e o uso de recursos</li>
+                                <li className="list-group-item"><span className='fw-semibold'>Público em Geral</span>: Todos que se preocupam com os desafios ambientais e a preservação</li>
                             </ul>
                         </div>
                     </div>

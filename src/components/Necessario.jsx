@@ -12,31 +12,21 @@ function Necessario() {
                     </div>
                     <div className="row">
                         <div className="col-lg-4">
-                            <h3 className='display-5 text-light fw-semibold'>01. Marketing</h3>
+                            <h3 className='display-6 text-light fw-semibold'>01. Implantação Estratégica de Sensores</h3>
                             <p className="lead text-light fw-light">
-                                Seria necessário realizar um
-                                excelente marketing, para
-                                conseguirmos cadastrar o maior
-                                número de empresas possíveis
+                                Posicionamento estratégico de sensores em áreas críticas, como a Amazônia e locais propensos a queimadas e garimpo ilegal.
                             </p>
                         </div>
                         <div className="col-lg-4">
-                            <h3 className='display-5 text-light fw-semibold'>02. Parcerias</h3>
+                            <h3 className='display-6 text-light fw-semibold'>02. Tecnologia Avançada de Sensoriamento</h3>
                             <p className="lead text-light fw-light">
-                                Também, faríamos parceria
-                                com diversas ongs e empresas
-                                que tem como foco a sustentabilidade
-                                para que ela consiga ajudar àquelas
-                                que buscam melhorar.
+                                Utilização de sensores avançados e precisos para coletar dados em tempo real, identificando poluentes, gases anormais e atividades ilegais.
                             </p>
                         </div>
                         <div className="col-lg-4">
-                            <h3 className='display-5 text-light fw-semibold'>03. Feedback</h3>
+                            <h3 className='display-6 text-light fw-semibold'>03. Conscientização e Parcerias</h3>
                             <p className="lead text-light fw-light">
-                                O feedback seria muito
-                                importante, para que conseguissimos
-                                melhorar sempre, e atender
-                                aos pedidos das empresas.
+                                Promoção da conscientização pública e colaboração com autoridades e comunidades locais para uma resposta eficaz e o desenvolvimento sustentável.
                             </p>
                         </div>
                     </div>

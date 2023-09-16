@@ -11,10 +11,10 @@ function Funcionamento() {
                         </div>
                         <div className="col-lg-6 d-flex flex-column justify-content-center align-items-center ps-5 border-start">
                             <p className="lead text-light fw-semibold">
-                                O software irá analisar os objetivos da empresa, apresentar as melhores parcerias possíveis, priorizando as empresas mais próximas e com metas parecidas..
+                            O Projeto Corp utilizará sensores estrategicamente implantados em áreas críticas, incluindo a região amazônica e outras propensas a queimadas e garimpo ilegal. Esses sensores coletarão dados em tempo real sobre a qualidade do ar, identificando poluentes e níveis anormais associados a incêndios e atividades ilegais.
                             </p>
                             <p className="lead text-light">
-                                No aplicativo, as empresas podem se expressar, de forma aberta, expor seus objetivos e dificuldades em seus feeds
+                            Quando detectados, alertas serão acionados para autoridades ambientais e organizações. Os dados serão armazenados e apresentados em um painel de controle de fácil acesso para monitoramento em tempo real.
                             </p>
                         </div>
                     </div>
