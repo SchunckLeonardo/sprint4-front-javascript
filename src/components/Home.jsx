@@ -1,6 +1,7 @@
 import ChallengeIBM from "./ChallengeIBM"
 import Projetos from "./Projetos"
 import Funcionamento from "./Funcionamento"
+import Perfil from './Perfil'
 
 function Home(){
     return (
@@ -8,6 +9,7 @@ function Home(){
             <ChallengeIBM/>
             <Projetos/>
             <Funcionamento/>
+            <Perfil/>
         </>
     )
 }
